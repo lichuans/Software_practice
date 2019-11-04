@@ -1,0 +1,18 @@
+C:\Users\carson\Desktop\HRIS_2018\HRIS_2018\bin\Debug\HRIS_3.exe.config
+C:\Users\carson\Desktop\HRIS_2018\HRIS_2018\bin\Debug\HRIS_3.exe
+C:\Users\carson\Desktop\HRIS_2018\HRIS_2018\bin\Debug\HRIS_3.pdb
+C:\Users\carson\Desktop\HRIS_2018\HRIS_2018\bin\Debug\Google.Protobuf.dll
+C:\Users\carson\Desktop\HRIS_2018\HRIS_2018\obj\Debug\HRIS_3.csprojAssemblyReference.cache
+C:\Users\carson\Desktop\HRIS_2018\HRIS_2018\obj\Debug\HRIS_3.csproj.CoreCompileInputs.cache
+C:\Users\carson\Desktop\HRIS_2018\HRIS_2018\obj\Debug\HRIS_3.csproj.CopyComplete
+C:\Users\carson\Desktop\HRIS_2018\HRIS_2018\obj\Debug\HRIS_3.exe
+C:\Users\carson\Desktop\HRIS_2018\HRIS_2018\obj\Debug\HRIS_3.pdb
+C:\Users\harry\Desktop\506 Assignment\示范2\HRIS_2018\bin\Debug\HRIS_3.exe.config
+C:\Users\harry\Desktop\506 Assignment\示范2\HRIS_2018\bin\Debug\HRIS_3.exe
+C:\Users\harry\Desktop\506 Assignment\示范2\HRIS_2018\bin\Debug\HRIS_3.pdb
+C:\Users\harry\Desktop\506 Assignment\示范2\HRIS_2018\bin\Debug\Google.Protobuf.dll
+C:\Users\harry\Desktop\506 Assignment\示范2\HRIS_2018\obj\Debug\HRIS_3.csprojAssemblyReference.cache
+C:\Users\harry\Desktop\506 Assignment\示范2\HRIS_2018\obj\Debug\HRIS_3.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\506 Assignment\示范2\HRIS_2018\obj\Debug\HRIS_3.csproj.CopyComplete
+C:\Users\harry\Desktop\506 Assignment\示范2\HRIS_2018\obj\Debug\HRIS_3.exe
+C:\Users\harry\Desktop\506 Assignment\示范2\HRIS_2018\obj\Debug\HRIS_3.pdb
